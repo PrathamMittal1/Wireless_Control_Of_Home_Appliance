@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wireless Control of Home Appliance</string>
+    <string name="wireless_control_of_home_appliance">Wireless Control of Home Appliance</string>
+    <string name="relay_switch">Relay Switch</string>
+    <string name="ok_response">Device Connected!</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="internet_of_things_project_user_interface_nproject_developed_by">Internet of Things Project User Interface\nProject developed by,</string>
+    <string name="owner_details">Pratham Mittal\nRoll No.- 12001151\nClass- 3CE5 B.Tech\nPunjabi University Patiala\n\nEmail: pratham9897521595@gmail.com</string>
+</resources>
